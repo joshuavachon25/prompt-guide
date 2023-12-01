@@ -2,4 +2,9 @@
 ## English version
 
 ## Version francaise
-- Prompt engineering
+- ChatGPT
+- Dall-E 3
+- Stable Diffusion
+- MidJourney
+- KreaAI
+- Runway
