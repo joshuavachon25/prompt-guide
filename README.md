@@ -1,4 +1,4 @@
-# Prompting Guide / Guide pour prompter (EN/FR)
+# Prompt Guide / Guide pour prompter (EN/FR)
 ## English version
 
 ## Version francaise
