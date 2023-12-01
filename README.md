@@ -1,8 +1,8 @@
-# Prompt Guide / Guide pour prompter (EN/FR)
+# Prompt Guide / Guide de "Prompt" (EN/FR)
 ## English version
 
 ## Version francaise
-- ChatGPT
+- [ChatGPT](./fr/ChatGPT/README.md)
 - Dall-E 3
 - Stable Diffusion
 - MidJourney
