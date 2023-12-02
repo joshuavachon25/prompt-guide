@@ -3,6 +3,7 @@
 
 ## Version francaise
 - [ChatGPT](./fr/ChatGPT/README.md)
+- Claude
 - Dall-E 3
 - Stable Diffusion
 - MidJourney
