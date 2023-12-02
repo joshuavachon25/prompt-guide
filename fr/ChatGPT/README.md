@@ -1,6 +1,6 @@
 # ChatGPT (FR)
-## Modèle GPT
 - ChatGPT est une interface utilisateur et une configuration pour l'implémentation pour les modèles GPT (GPT 3.5, GPT 4...)
+- ChatGPT utilise des versions "fine tuner" de GPT et un modèle de modération pour éviter le "mauvais" contenu en intrant ou extrant
 - Le modèle ne fonctionne pas avec des mots, mais avec des tokens
 - Le modèle prédit le prochain token, mais en prenant en considération le contexte
 
